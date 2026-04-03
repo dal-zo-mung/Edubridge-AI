@@ -6,6 +6,7 @@ Edubridge-AI is an innovative educational platform built with **Next.js**. It le
 EduBridge-AI is currently available as a functional prototype, showcasing our AI-powered career ecosystem. We invite you to explore the platform via the following links:
 
 🌐 Frontend (User Interface): [https://edu-bridge-ai-frontend.vercel.app](https://edu-bridge-ai-frontend.vercel.app)
+
 ⚙️ Backend (API Services): [https://edubridge-ai-ui2j.onrender.com](https://edubridge-ai-ui2j.onrender.com)
 
 ## 🎯 Technical Focus & Performance
